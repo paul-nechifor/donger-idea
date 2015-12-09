@@ -4,6 +4,7 @@
   "scripts": {
     "postinstall": "mkdir -p data",
     "get-data": "coffee src/getData.coffee",
+    "get-data2": "coffee src/getData2.coffee",
     "start": "coffee src/server.coffee"
   },
   "dependencies": {
