@@ -1,3 +1,7 @@
+# This repository has been moved to [gitlab.com/paul-nechifor/donger-idea](http://gitlab.com/paul-nechifor/donger-idea).
+
+Old readme:
+
 # Donger Idea
 
 Some scripts to scrape kaomoji.
